@@ -28,6 +28,7 @@ The game combines fast-paced action with strategic decision-making.
 
 - [Make](https://www.gnu.org/software/make/)
 - [C Compiler](https://gcc.gnu.org/) (e.g., GCC or Clang)
+- [MinGW](https://www.mingw-w64.org/) for corss-compilation to Windows on Linux
 
 #### Setup
 
