@@ -19,8 +19,8 @@ The game combines fast-paced action with strategic decision-making.
 
 ## Technologies
 
-- C: Core programming language for game logic.
-- raylib: Library for graphics, audio and input handling.
+- **C**: Core programming language for game logic.
+- **raylib**: Library for graphics, audio and input handling.
 
 ## Getting Started
 
